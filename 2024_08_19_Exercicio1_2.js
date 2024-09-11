@@ -33,6 +33,18 @@ function somarArrays(array1, array2) {
     return arraySoma;
 }
 
+// FUNÇÃO MAIN QUE CHAMA A FUNÇÃO DE CRIAR ARRAY E SOMALOS
+
+/* function main(Tamanho, min, max, array1,array2){
+    console.log("Iniciando a função de gerar o array")
+    gerarArray(Tamanho, min, max)
+    console.log("Iniciando a função de gerar o array")
+    gerarArray(Tamanho, min, max)
+
+    console.log("Iniciando a soma dos arrays")
+    somarArrays(array1,array2)
+}
+*/
 
 // PRIMEIRO ARRAY
 const tamanhoArray = parseInt(prompt("Qual o tamanho do primeiro array que você quer ? "));
@@ -53,3 +65,8 @@ const array2 = gerarArray(tamanhoArray2, valorMinimo2, valorMaximo2);
 // A SOMA DOS ARRAYS 
 console.log("O resultado da soma dos arrays: ")
 somarArrays(array1,array2)
+
+// main(tamanhoArray,valorMaximo,valorMinimo,array1,array2)
+
+
+
