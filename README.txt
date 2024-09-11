@@ -1,0 +1,3 @@
+O programa 2024_08_19_Exercicio1_1.js cria um array por uma função com os valores dados pelo usuário e por outras funções que verifica o termo que mais se repete e cria um novo array sem os elementos repetidos.
+
+O programa 2024_08_19_Exercicio1_2.js cria dois array`s por uma função e por outra função realiza a soma das duas arrays, uma função main ainda se encontra em desenvolvimento que vai realizar todas as funções numa única chamada
